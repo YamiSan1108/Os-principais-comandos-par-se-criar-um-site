@@ -1,0 +1,15 @@
+/* Comandos CSS */
+
+/* Seleciona todos os elementos p e aplica estilos */
+p {
+	font-size: 15px;
+	font-family: Times New Roman;
+	color: black;
+}
+
+/* Seleciona todos os elementos img e aplica estilos */
+img {
+	width: 50%;
+	height: auto;
+	margin: 10px;
+}
